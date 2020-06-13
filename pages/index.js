@@ -45,7 +45,7 @@ export default function Home({ allPostsData }) {
           Here's a <a href="https://www.linkedin.com/in/matiasherranz" target="_blank">link</a> to my profile.
         </p>
         <p>
-          (This is a sample website - you can building one a site like this with the{' '}
+          (This is a sample website - you can building one like this with the{' '}
           <a href="https://nextjs.org/learn">Next.js tutorial!</a>.)
         </p>
       </section>
